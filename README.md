@@ -15,3 +15,11 @@
 **Course Link:** https://www.linkedin.com/learning/advanced-rust-managing-projects
 
 **Date of Completion:** 30 April 2026
+
+## 3. Rust: Asynchronous Programming with Tokio
+
+**Course Provider:** Linkedin Learning
+
+**Course Link:** https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio
+
+**Date of Completion:** 30 April 2026
