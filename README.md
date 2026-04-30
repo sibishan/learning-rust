@@ -23,3 +23,11 @@
 **Course Link:** https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio
 
 **Date of Completion:** 30 April 2026
+
+## 4. Using Rust with Python
+
+**Course Provider:** Linkedin Learning
+
+**Course Link:** https://www.linkedin.com/learning/using-rust-with-python
+
+**Date of Completion:** 30 April 2026
